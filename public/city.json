@@ -1,0 +1,1506 @@
+{
+    "110000": [
+        {
+            "code": "110100",
+            "name": "Municipality directly under the Central Government"
+        }
+    ],
+    "120000": [
+        {
+            "code": "120100",
+            "name": "Municipality directly under the Central Government"
+        }
+    ],
+    "130000": [
+        {
+            "code": "130100",
+            "name": "Shijiazhuang City"
+        },
+        {
+            " code": "130200",
+            "name": "Tangshan City"
+        },
+        {
+            "code": "130300",
+            "name": "Qinhuangdao City"
+        },
+        {
+            "code": "130400",
+            "name": "Handan City"
+        },
+        {
+            "code": "130500",
+            "name": "Xingtai City"
+        },
+        {
+            "code": "130600",
+            "name": "Baoding City"
+        },
+        {
+            "code": "130700",
+            "name": "Zhangjiakou City"
+        },
+        {
+            "code": "130800",
+            "name": "Chengde City"
+        },
+        {
+            "code": "130900",
+            "name": "Cangzhou City"
+        },
+        {
+            "code": " 131000",
+            "name": "Langfang"
+        },
+        {
+            "code": "13100",
+            "name": "Hengshui"
+        }
+    ],
+    "140000": [
+        {
+            "code": "140100",
+            "name": "Taiyuan"
+        },
+        {
+            "code": "140200",
+            "name": "Datong"
+        },
+        {
+            " code": "140300",
+            "name": "Yangquan"
+        },
+        {
+            "code": "140400",
+            "name": "Changzhi"
+        },
+        {
+            "code": "140500",
+            "name": "Jincheng"
+        },
+        {
+            "code": "140600",
+            "name": "Shuozhou"
+        },
+        {
+            "code": "140700",
+            "name": "Jinzhong city"
+        },
+        {
+            "code": "140800",
+            "name": "Yuncheng city"
+        },
+        {
+            "code": "140900",
+            "name": "Xinzhou city"
+        },
+        {
+            "code": "141000",
+            "name": "Linfen city"
+        },
+        {
+            "code": " 141100",
+            "name": "Lvliang"
+        }
+    ],
+    "150000": [
+        {
+            "code": "150100",
+            "name": "Hohhot"
+        },
+        {
+            "code": "150200",
+            "name": "Baotou"
+        },
+        {
+            "code": "150300",
+            "name": "Wuhai"
+        },
+        {
+            " code": "150400",
+            "name": "Chifeng"
+        },
+        {
+            "code": "150500",
+            "name": "Tongliao"
+        },
+        {
+            "code": "150600",
+            "name": "Erdos"
+        },
+        {
+            "code": "150700",
+            "name": "Hulunbeier"
+        },
+        {
+            " code": "150800",
+            "name": "Bayannur city"
+        },
+        {
+            "code": "150900",
+            "name": "Ulanqab city"
+        },
+        {
+            "code": "152200",
+            "name": "Xing'an League"
+        },
+        {
+            "code": "152500",
+            "name": "Xilinguole League"
+        },
+        {
+            "code": "152900",
+            "name": "Alashan League"
+        }
+    ],
+    "210000": [
+        {
+            "code": "210100",
+            "name": "Shenyang city"
+        },
+        {
+            "code": "210200",
+            "name": "Dalian city"
+        },
+        {
+            "code": "210300",
+            "name": "Anshan city"
+        },
+        {
+            "code": "210400",
+            "name": "Fushun city"
+        },
+        {
+            "code": "210500",
+            "name": "Benxi city"
+        },
+        {
+            "code": "210600",
+            "name": "Dandong City"
+        },
+        {
+            "code": "210700",
+            "name": "Jinzhou City"
+        },
+        {
+            "code": "210800",
+            "name": "Yingkou City"
+        },
+        {
+            "code": "210900",
+            "name": "Fuxin City"
+        },
+        {
+            " code": "211000",
+            "name": "Liaoyang City"
+        },
+        {
+            "code": "211100",
+            "name": "Panjin City"
+        },
+        {
+            "code": "211200",
+            "name": "Tieling City"
+        },
+        {
+            "code": "211300",
+            "name": "Chaoyang City"
+        },
+        {
+            "code": "211400",
+            "name": "Huludao"
+        }
+    ],
+    "220000": [
+        {
+            "code": "220100",
+            "name": "Changchun"
+        },
+        {
+            "code": "220200",
+            "name": "Jilin"
+        },
+        {
+            "code": "220300",
+            "name": "Siping"
+        },
+        {
+            " code": "220400",
+            "name": "Liaoyuan City"
+        },
+        {
+            "code": "220500",
+            "name": "Tonghua City"
+        },
+        {
+            "code": "220600",
+            "name": "Baishan City"
+        },
+        {
+            "code": "220700",
+            "name": "Songyuan City"
+        },
+        {
+            "code": "220800",
+            "name": "Baicheng City"
+        },
+        {
+            "code": "222400",
+            "name": "Yanbian Korean Autonomous Prefecture"
+        }
+    ],
+    "230000": [
+        {
+            "code": "230100",
+            "name": "Harbin City"
+        },
+        {
+            "code": "230200",
+            "name": "Qiqihar"
+        },
+        {
+            "code": "230300",
+            "name": "Jixi"
+        },
+        {
+            "code": "230400",
+            "name": "Hegang"
+        },
+        {
+            "code": "230500",
+            "name": "Shuangyashan"
+        },
+        {
+            "code": "230600",
+            "name": "Daqing "
+        },
+        {
+            "code": "230700",
+            "name": "Yichun City"
+        },
+        {
+            "code": "230800",
+            "name": "Jiamusi City"
+        },
+        {
+            "code": "230900",
+            "name": "Qitaihe City"
+        },
+        {
+            "code": "231000",
+            "name": "Mudanjiang City"
+        },
+        {
+            "code": "231100",
+            "name": "Heihe City"
+        },
+        {
+            "code": "231200",
+            "name": "Suihua City"
+        },
+        {
+            "code": "232700",
+            "name": "Daxinganling District"
+        }
+    ],
+    "310000": [
+        {
+            "code": "310100",
+            "name": "Municipality directly under the Central Government"
+        }
+    ],
+    "320000": [
+        {
+            "code": "320100",
+            "name": "Nanjing"
+        },
+        {
+            "code": "320200",
+            "name": "Wuxi"
+        },
+        {
+            "code": "320300",
+            "name": "Xuzhou"
+        },
+        {
+            "code": "320400",
+            " name": "Changzhou City"
+        },
+        {
+            "code": "320500",
+            "name": "Suzhou City"
+        },
+        {
+            "code": "320600",
+            "name": "Nantong City"
+        },
+        {
+            "code": "320700",
+            "name": "Lianyungang City"
+        },
+        {
+            "code": "320800",
+            "name": "Huai'an City"
+        },
+        {
+            "code": "320900",
+            "name": "Yancheng City"
+        },
+        {
+            "code": "321000",
+            "name": "Yangzhou City"
+        },
+        {
+            "code": "321100",
+            "name": "Zhenjiang City"
+        },
+        {
+            "code": "321200",
+            "name": "Taizhou City"
+        },
+        {
+            "code": "32100",
+            "name": "Suqian City"
+        }
+    ],
+    "330000": [
+        {
+            "code": "330000",
+            "name": "Hangzhou City"
+        },
+        {
+            "code": "330200",
+            "name": "Ningbo City"
+        },
+        {
+            "code": "330300",
+            "name": "Wenzhou City"
+        },
+        {
+            "code": "330400",
+            "name": "Jiaxing City"
+        },
+        {
+            "code": "330500",
+            "name": "Huzhou City"
+        },
+        {
+            "code": "330600",
+            "name": "Shaoxing City"
+        },
+        {
+            "code": "330700",
+            "name": "Jinhua City"
+        },
+        {
+            "code": "330800",
+            "name": "Quzhou City"
+        },
+        {
+            "code": "330900",
+            "name": "Zhoushan City"
+        },
+        {
+            "code": "331000",
+            "name": "Taizhou City"
+        },
+        {
+            "code": "331100",
+            "name": "Lishui City"
+        }
+    ],
+    "340000": [
+        {
+            "code": "340100",
+            "name": "Hefei City"
+        },
+        {
+            "code": "340200",
+            "name": "Wuhu City"
+        },
+        {
+            "code": "340300",
+            "name": "Bengbu City"
+        },
+        {
+            "code": "340400",
+            "name": "Huainan City "
+        },
+        {
+            "code": "340500",
+            "name": "Maanshan City"
+        },
+        {
+            "code": "340600",
+            "name": "Huaibei City"
+        },
+        {
+            "code": "340700",
+            "name": "Tongling City"
+        },
+        {
+            "code": "340800",
+            "name": "Anqing City"
+        },
+        {
+            " code": "341000",
+            "name": "Huangshan City"
+        },
+        {
+            "code": "341100",
+            "name": "Chuzhou City"
+        },
+        {
+            "code": "341200",
+            "name": "Fuyang City"
+        },
+        {
+            "code": "341300",
+            "name": "Suizhou City"
+        },
+        {
+            "code": "341500",
+            "name": "Liuan City"
+        },
+        {
+            "code": "341600",
+            "name": "Bozhou City"
+        },
+        {
+            "code": "341700",
+            "name": "Chizhou City"
+        },
+        {
+            "code": "341800",
+            "name": "Xuancheng City"
+        }
+    ],
+    "350000": [
+        {
+            " code": "350100",
+            "name": "Fuzhou City"
+        },
+        {
+            "code": "350200",
+            "name": "Xiamen City"
+        },
+        {
+            "code": "350300",
+            "name": "Putian City"
+        },
+        {
+            "code": "350400",
+            "name": "Sanming City"
+        },
+        {
+            "code": "350500",
+            "name": "Quanzhou City"
+        },
+        {
+            "code": "350600",
+            "name": "Zhangzhou City"
+        },
+        {
+            "code": "350700",
+            "name": "Nanping City"
+        },
+        {
+            "code": "350800",
+            "name": "Longyan City"
+        },
+        {
+            "code": " 350900",
+            "name": "Ningde City"
+        }
+    ],
+    "360000": [
+        {
+            "code": "360100",
+            "name": "Nanchang City"
+        },
+        {
+            "code": "360200",
+            "name": "Jingdezhen City"
+        },
+        {
+            "code": "360300",
+            "name": "Pingxiang City"
+        },
+        {
+            " code": "360400",
+            "name": "Jiujiang City"
+        },
+        {
+            "code": "360500",
+            "name": "Xinyu City"
+        },
+        {
+            "code": "360600",
+            "name": "Yingtan City"
+        },
+        {
+            "code": "360700",
+            "name": "Ganzhou City"
+        },
+        {
+            "code": "360800",
+            "name": "Ji'an City"
+        },
+        {
+            "code": "360900",
+            "name": "Yichun City"
+        },
+        {
+            "code": "361000",
+            "name": "Fuzhou City"
+        },
+        {
+            "code": "361100",
+            "name": "Shangrao City"
+        }
+    ],
+    "370000": [
+        {
+            " code": "370100",
+            "name": "Jinan City"
+        },
+        {
+            "code": "370200",
+            "name": "Qingdao City"
+        },
+        {
+            "code": "370300",
+            "name": "Zibo City"
+        },
+        {
+            "code": "370400",
+            "name": "Zaozhuang City"
+        },
+        {
+            "code": "370500",
+            "name": "Dongying City"
+        },
+        {
+            "code": "370600",
+            "name": "Yantai City"
+        },
+        {
+            "code": "370700",
+            "name": "Weifang City"
+        },
+        {
+            "code": "370800",
+            "name": "Jining City"
+        },
+        {
+            "code": " 370900",
+            "name": "Tai'an"
+        },
+        {
+            "code": "371000",
+            "name": "Weihai"
+        },
+        {
+            "code": "371100",
+            "name": "Rizhao"
+        },
+        {
+            "code": "371300",
+            "name": "Linyi"
+        },
+        {
+            "code": "371400 ",
+            "name": "Dezhou City"
+        },
+        {
+            "code": "371500",
+            "name": "Liaocheng City"
+        },
+        {
+            "code": "371600",
+            "name": "Binzhou City"
+        },
+        {
+            "code": "371700",
+            "name": "Heze City"
+        }
+    ],
+    "410000": [
+        {
+            "code": " 410100",
+            "name": "Zhengzhou City"
+        },
+        {
+            "code": "410200",
+            "name": "Kaifeng City"
+        },
+        {
+            "code": "410300",
+            "name": "Luoyang City"
+        },
+        {
+            "code": "410400",
+            "name": "Pingdingshan City"
+        },
+        {
+            "code": " 410500",
+            "name": "Anyang city"
+        },
+        {
+            "code": "410600",
+            "name": "Hebi city"
+        },
+        {
+            "code": "410700",
+            "name": "Xinxiang city"
+        },
+        {
+            "code": "410800",
+            "name": "Jiaozuo city"
+        },
+        {
+            "code": "410900 ",
+            "name": "Puyang City"
+        },
+        {
+            "code": "411000",
+            "name": "Xuchang City"
+        },
+        {
+            "code": "411100",
+            "name": "Luohe City"
+        },
+        {
+            "code": "411200",
+            "name": "Sanmenxia City"
+        },
+        {
+            "code": "411300",
+            " name": "Nanyang city"
+        },
+        {
+            "code": "411400",
+            "name": "Shangqiu city"
+        },
+        {
+            "code": "411500",
+            "name": "Xinyang city"
+        },
+        {
+            "code": "411600",
+            "name": "Zhoukou city"
+        },
+        {
+            "code": "411700",
+            "name": "Zhumadian City"
+        }
+    ],
+    "420000": [
+        {
+            "code": "420100",
+            "name": "Wuhan City"
+        },
+        {
+            "code": "420200",
+            "name": "Huangshi City"
+        },
+        {
+            "code": "420300",
+            "name": "Shiyan"
+        },
+        {
+            "code": "420500",
+            "name": "Yichang"
+        },
+        {
+            "code": "420600",
+            "name": "Xiangyang"
+        },
+        {
+            "code": "420700",
+            "name": "Ezhou"
+        },
+        {
+            "code ": "420800",
+            "name": "Jingmen"
+        },
+        {
+            "code": "420900",
+            "name": "Xiaogan"
+        },
+        {
+            "code": "421000",
+            "name": "Jingzhou"
+        },
+        {
+            "code": "421100",
+            "name": "Huanggang"
+        },
+        {
+            "code": " 421200",
+            "name": "Xianning City"
+        },
+        {
+            "code": "421300",
+            "name": "Suizhou City"
+        },
+        {
+            "code": "422800",
+            "name": "Enshi Tujia and Miao Autonomous Prefecture"
+        }
+    ],
+    "430000": [
+        {
+            "code": "430100",
+            "name": "Changsha City "
+        },
+        {
+            "code": "430200",
+            "name": "Zhuzhou City"
+        },
+        {
+            "code": "430300",
+            "name": "Xiangtan City"
+        },
+        {
+            "code": "430400",
+            "name": "Hengyang City"
+        },
+        {
+            "code": "430500",
+            "name": "Shaoyang City"
+        },
+        {
+            " code": "430600",
+            "name": "Yueyang City"
+        },
+        {
+            "code": "430700",
+            "name": "Changde City"
+        },
+        {
+            "code": "430800",
+            "name": "Zhangjiajie City"
+        },
+        {
+            "code": "430900",
+            "name": "Yiyang City"
+        },
+        {
+            "code": "431000",
+            "name": "Chenzhou City"
+        },
+        {
+            "code": "431100",
+            "name": "Yongzhou City"
+        },
+        {
+            "code": "431200",
+            "name": "Huaihua City"
+        },
+        {
+            "code": "431300",
+            "name": "Loudi City"
+        },
+        {
+            "code": " 433100",
+            "name": "Xiangxi Tujia and Miao Autonomous Prefecture"
+        }
+    ],
+    "440000": [
+        {
+            "code": "440100",
+            "name": "Guangzhou City"
+        },
+        {
+            "code": "440200",
+            "name": "Shaoguan City"
+        },
+        {
+            "code": "440300",
+            "name": "Shenzhen City "
+        },
+        {
+            "code": "440400",
+            "name": "Zhuhai"
+        },
+        {
+            "code": "440500",
+            "name": "Shantou"
+        },
+        {
+            "code": "440600",
+            "name": "Foshan"
+        },
+        {
+            "code": "440700",
+            "name": "Jiangmen"
+        },
+        {
+            " code": "440800",
+            "name": "Zhanjiang City"
+        },
+        {
+            "code": "440900",
+            "name": "Maoming City"
+        },
+        {
+            "code": "441200",
+            "name": "Zhaoqing City"
+        },
+        {
+            "code": "441300",
+            "name": "Huizhou City"
+        },
+        {
+            "code": "441400",
+            "name": "Meizhou City"
+        },
+        {
+            "code": "441500",
+            "name": "Shanwei City"
+        },
+        {
+            "code": "441600",
+            "name": "Heyuan City"
+        },
+        {
+            "code": "441700",
+            "name": "Yangjiang City"
+        },
+        {
+            "code": " 441800",
+            "name": "Qingyuan City"
+        },
+        {
+            "code": "441900",
+            "name": "Dongguan City"
+        },
+        {
+            "code": "442000",
+            "name": "Zhongshan City"
+        },
+        {
+            "code": "445100",
+            "name": "Chaozhou City"
+        },
+        {
+            "code": "445200 ",
+            "name": "Jieyang City"
+        },
+        {
+            "code": "445300",
+            "name": "Yunfu City"
+        }
+    ],
+    "450000": [
+        {
+            "code": "450100",
+            "name": "Nanning City"
+        },
+        {
+            "code": "450200",
+            "name": "Liuzhou City"
+        },
+        {
+            "code": " 450300",
+            "name": "Guilin"
+        },
+        {
+            "code": "450400",
+            "name": "Wuzhou"
+        },
+        {
+            "code": "450500",
+            "name": "Beihai"
+        },
+        {
+            "code": "450600",
+            "name": "Fangchenggang"
+        },
+        {
+            "code": " 450700",
+            "name": "Qinzhou City"
+        },
+        {
+            "code": "450800",
+            "name": "Guigang City"
+        },
+        {
+            "code": "450900",
+            "name": "Yulin City"
+        },
+        {
+            "code": "451000",
+            "name": "Baise City"
+        },
+        {
+            "code": "451100 ",
+            "name": "Hezhou City"
+        },
+        {
+            "code": "451200",
+            "name": "Hechi City"
+        },
+        {
+            "code": "451300",
+            "name": "Laibin City"
+        },
+        {
+            "code": "451400",
+            "name": "Chongzuo City"
+        }
+    ],
+    "460000": [
+        {
+            "code": " 460100",
+            "name": "Haikou"
+        },
+        {
+            "code": "460200",
+            "name": "Sanya"
+        },
+        {
+            "code": "460300",
+            "name": "Sansha"
+        },
+        {
+            "code": "460400",
+            "name": "Danzhou"
+        }
+    ],
+    "500000": [
+        {
+            "code": "500100",
+            "name": "Municipality directly under the Central Government"
+        }
+    ],
+    "510000": [
+        {
+            "code": "510100",
+            "name": "Chengdu City"
+        },
+        {
+            "code": "510300",
+            "name": "Zigong City"
+        },
+        {
+            "code": "510400",
+            "name": " Panzhihua city"
+        },
+        {
+            "code": "510500",
+            "name": "Luzhou city"
+        },
+        {
+            "code": "510600",
+            "name": "Deyang city"
+        },
+        {
+            "code": "510700",
+            "name": "Mianyang city"
+        },
+        {
+            "code": "510800",
+            "name": "Guangyuan city"
+        },
+        {
+            "code": "510900",
+            "name": "Suining City"
+        },
+        {
+            "code": "511000",
+            "name": "Neijiang City"
+        },
+        {
+            "code": "511100",
+            "name": "Leshan City"
+        },
+        {
+            "code": "511300",
+            "name": "Nanchong City"
+        },
+        {
+            " code": "511400",
+            "name": "Meishan City"
+        },
+        {
+            "code": "511500",
+            "name": "Yibin City"
+        },
+        {
+            "code": "511600",
+            "name": "Guang'an City"
+        },
+        {
+            "code": "511700",
+            "name": "Dazhou City"
+        },
+        {
+            "code": "511800",
+            "name": "Ya'an City"
+        },
+        {
+            "code": "511900",
+            "name": "Bazhong City"
+        },
+        {
+            "code": "512000",
+            "name": "Ziyang City"
+        },
+        {
+            "code": "513200",
+            "name": "Aba Tibetan and Qiang Autonomous Prefecture"
+        },
+        {
+            "code": "513300",
+            "name": "Ganzi Tibetan Autonomous Prefecture"
+        },
+        {
+            "code": "513400",
+            "name": "Liangshan Yi Autonomous Prefecture"
+        }
+    ],
+    "520000": [
+        {
+            "code": "520100",
+            "name": "Guiyang City"
+        },
+        {
+            "code": "520200",
+            "name": " Liupanshui city"
+        },
+        {
+            "code": "520300",
+            "name": "Zunyi city"
+        },
+        {
+            "code": "520400",
+            "name": "Anshun city"
+        },
+        {
+            "code": "520500",
+            "name": "Bijie city"
+        },
+        {
+            "code": "520600",
+            "name": "Tongren city"
+        },
+        {
+            "code": "522300",
+            "name": "Qianxinan Buyi Miao Autonomous Prefecture"
+        },
+        {
+            "code": "522600",
+            "name": "Qiannan Miao and Dong Autonomous Prefecture"
+        },
+        {
+            "code": "522700",
+            "name": "Qiannan Buyi Miao Autonomous Prefecture"
+        }
+    ],
+    "530000": [
+        {
+            " code": "530100",
+            "name": "Kunming City"
+        },
+        {
+            "code": "530300",
+            "name": "Qujing City"
+        },
+        {
+            "code": "530400",
+            "name": "Yuxi City"
+        },
+        {
+            "code": "530500",
+            "name": "Baoshan City"
+        },
+        {
+            "code": "530600",
+            "name": "Zhaotong"
+        },
+        {
+            "code": "530700",
+            "name": "Lijiang"
+        },
+        {
+            "code": "530800",
+            "name": "Pu'er"
+        },
+        {
+            "code": "530900",
+            "name": "Lincang"
+        },
+        {
+            "code": " 532300",
+            "name": "Chuxiong Yi Autonomous Prefecture"
+        },
+        {
+            "code": "532500",
+            "name": "Honghe Hani and Yi Autonomous Prefecture"
+        },
+        {
+            "code": "532600",
+            "name": "Wenshan Zhuang and Miao Autonomous Prefecture"
+        },
+        {
+            "code": "532800",
+            "name": " Xishuangbanna Dai Autonomous Prefecture"
+        },
+        {
+            "code": "532900",
+            "name": "Dali Bai Autonomous Prefecture"
+        },
+        {
+            "code": "533100",
+            "name": "Dehong Dai Jingpo Autonomous Prefecture"
+        },
+        {
+            "code": "533300",
+            "name": "Nujiang Lisu Autonomous Prefecture"
+        },
+        {
+            "code": " 533400",
+            "name": "Diqing Tibetan Autonomous Prefecture"
+        }
+    ],
+    "540000": [
+        {
+            "code": "540100",
+            "name": "Lhasa"
+        },
+        {
+            "code": "540200",
+            "name": "rikaze"
+        },
+        {
+            "code": "540300",
+            "name": "changdu"
+        },
+        {
+            "code": "540400",
+            "name": "Linzhi City"
+        },
+        {
+            "code": "540500",
+            "name": "Shannan City"
+        },
+        {
+            "code": "540600",
+            "name": "Nagqu City"
+        },
+        {
+            "code": "542500",
+            "name": "Ali District"
+        }
+    ],
+    "610000": [
+        {
+            "code": "610100",
+            "name": "Xi'an city"
+        },
+        {
+            "code": "610200",
+            "name": "Tongchuan city"
+        },
+        {
+            "code": "610300",
+            "name": "Baoji city"
+        },
+        {
+            "code": "610400",
+            "name": "Xianyang city "
+        },
+        {
+            "code": "610500",
+            "name": "Weinan City"
+        },
+        {
+            "code": "610600",
+            "name": "Yan'an City"
+        },
+        {
+            "code": "610700",
+            "name": "Hanzhong City"
+        },
+        {
+            "code": "610800",
+            "name": "Yulin City"
+        },
+        {
+            " code": "610900",
+            "name": "Ankang City"
+        },
+        {
+            "code": "611000",
+            "name": "Shangluo City"
+        }
+    ],
+    "620000": [
+        {
+            "code": "620100",
+            "name": "Lanzhou City"
+        },
+        {
+            "code": "620200",
+            "name": " Jiayuguan city"
+        },
+        {
+            "code": "620300",
+            "name": "Jinchang city"
+        },
+        {
+            "code": "620400",
+            "name": "Baiyin city"
+        },
+        {
+            "code": "620500",
+            "name": "Tianshui city"
+        },
+        {
+            "code": "620600",
+            "name": "Wuwei city"
+        },
+        {
+            "code": "620700",
+            "name": "Zhangye"
+        },
+        {
+            "code": "620800",
+            "name": "Pingliang"
+        },
+        {
+            "code": "620900",
+            "name": "Jiuquan"
+        },
+        {
+            "code": "621000",
+            "name": "Qingyang"
+        },
+        {
+            " code": "621100",
+            "name": "Dingxi City"
+        },
+        {
+            "code": "621200",
+            "name": "Longnan City"
+        },
+        {
+            "code": "622900",
+            "name": "Linxia Hui Autonomous Prefecture"
+        },
+        {
+            "code": "623000",
+            "name": "Gannan Tibetan Autonomous Prefecture"
+        }
+    ],
+    "630000": [
+        {
+            "code": "630100",
+            "name": "Xining City"
+        },
+        {
+            "code": "630200",
+            "name": "Haidong City"
+        },
+        {
+            "code": "632200",
+            "name": "Haibei Tibetan Autonomous Prefecture"
+        },
+        {
+            "code": "632300",
+            "name": "Huangnan Tibetan Autonomous Prefecture"
+        },
+        {
+            "code": "632500",
+            "name": "Hainan Tibetan Autonomous Prefecture"
+        },
+        {
+            "code": "632600",
+            "name": "Guoluo Tibetan Autonomous Prefecture"
+        },
+        {
+            "code": "632700",
+            "name": " Yushu Tibetan Autonomous Prefecture"
+        },
+        {
+            "code": "632800",
+            "name": "Haixi Mongolian Tibetan Autonomous Prefecture"
+        }
+    ],
+    "640000": [
+        {
+            "code": "640100",
+            "name": "Yinchuan City"
+        },
+        {
+            "code": "640200",
+            "name": "Shizuishan City"
+        },
+        {
+            "code": "640300",
+            "name": "Wuzhong City"
+        },
+        {
+            "code": "640400",
+            "name": "Guyuan City"
+        },
+        {
+            "code": "640500",
+            "name": "Zhongwei City"
+        }
+    ],
+    "650000": [
+        {
+            "code": "650100",
+            "name": "Urumqi City"
+        },
+        {
+            "code": "650200",
+            "name": "Karamay City"
+        },
+        {
+            "code": "650400",
+            "name": "Turpan City"
+        },
+        {
+            "code": "650500",
+            "name": "Hami City"
+        },
+        {
+            "code": "652300",
+            "name": "Changji Hui Autonomous Prefecture"
+        },
+        {
+            "code": "652700",
+            "name": "Bortala Mongol Autonomous Prefecture"
+        },
+        {
+            "code": "652800",
+            "name": "Bayingoleng Mongol Autonomous Prefecture"
+        },
+        {
+            "code": "652900",
+            "name": "Aksu Region"
+        },
+        {
+            "code": "653000",
+            "name": "Kizilsu Kirgiz Autonomous Prefecture"
+        },
+        {
+            "code": "653100",
+            "name": "Kashgar Region"
+        },
+        {
+            "code": "653200",
+            "name": "Hotan Region"
+        },
+        {
+            "code": "654000",
+            "name": "Yili Kazakh Autonomous Prefecture"
+        },
+        {
+            "code": " 654200",
+            "name": "Tacheng District"
+        },
+        {
+            "code": "654300",
+            "name": "Altay District"
+        }
+    ],
+    "710000": [
+        {
+            "code": "710100",
+            "name": "Taipei City"
+        },
+        {
+            "code": "710200",
+            "name": "Kaohsiung City"
+        },
+        {
+            "code": "710300",
+            "name": "Tainan City"
+        },
+        {
+            "code": "710400",
+            "name": "Taichung City"
+        },
+        {
+            "code": "710600",
+            "name": "Nantou County"
+        },
+        {
+            "code": "710700",
+            "name": "Keelung City"
+        },
+        {
+            "code": "710800",
+            "name": "Hsinchu City"
+        },
+        {
+            "code": "710900",
+            "name": "Chiayi City"
+        },
+        {
+            "code": "711100",
+            "name": "New Taipei City"
+        },
+        {
+            "code": "7111200",
+            "name": "Yilan County"
+        },
+        {
+            "code": " 711300",
+            "name": "Hsinchu County"
+        },
+        {
+            "code": "711400",
+            "name": "Taoyuan City"
+        },
+        {
+            "code": "711500",
+            "name": "Miaoli County"
+        },
+        {
+            "code": "711700",
+            "name": "Changhua County"
+        },
+        {
+            "code": "711900 ",
+            "name": "Chiayi County"
+        },
+        {
+            "code": "712100",
+            "name": "Yunlin County"
+        },
+        {
+            "code": "712400",
+            "name": "Pingtung County"
+        },
+        {
+            "code": "712500",
+            "name": "Taitung County"
+        },
+        {
+            "code": "712600",
+            " name": "Hualien County"
+        },
+        {
+            "code": "712700",
+            "name": "Penghu County"
+        }
+    ],
+    "810000": [
+        {
+            "code": "810100",
+            "name": "Municipality directly under the Central Government"
+        }
+    ],
+    "820000": [
+        {
+            "code": "820100",
+            "name": "Municipality directly under the Central Government"
+        }
+    ]
+}

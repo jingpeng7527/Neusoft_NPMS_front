@@ -1,0 +1,138 @@
+[
+    {
+        "code": "110000",
+        "name": "Beijing"
+    },
+    {
+        "code": "120000",
+        "name": "Tianjin"
+    },
+    {
+        "code": "130000",
+        "name": "Hebei"
+    },
+    {
+        "code": "140000",
+        "name": "Shanxi"
+    },
+    {
+        "code": "150000",
+        "name": "Inner Mongolia Autonomous Region"
+    },
+    {
+        "code": "210000",
+        "name": "Liaoning Province"
+    },
+    {
+        "code": "220000",
+        "name": "Jilin Province"
+    },
+    {
+        "code": "230000",
+        "name": "Heilongjiang Province"
+    },
+    {
+        "code": "310000",
+        "name": "Shanghai"
+    },
+    {
+        "code": "320000",
+        "name": "Jiangsu Province"
+    },
+    {
+        "code": "330000",
+        "name": "Zhejiang Province"
+    },
+    {
+        "code": "340000",
+        "name": "Anhui Province"
+    },
+    {
+        "code": "350000",
+        "name": "Fujian Province"
+    },
+    {
+        "code": "360000",
+        "name": "Jiangxi Province"
+    },
+    {
+        "code": "370000",
+        "name": "Shandong Province"
+    },
+    {
+        "code": "410000",
+        "name": "Henan Province"
+    },
+    {
+        "code": "420000",
+        "name": "Hubei Province"
+    },
+    {
+        "code": "430000",
+        "name": "Hunan Province"
+    },
+    {
+        "code": "440000",
+        "name": "Guangdong Province"
+    },
+    {
+        "code": "450000",
+        "name": "Guangxi Zhuang Autonomous Region"
+    },
+    {
+        "code": "460000",
+        "name": "Hainan Province"
+    },
+    {
+        "code": "500000",
+        "name": "Chongqing City"
+    },
+    {
+        "code": "510000",
+        "name": "Sichuan Province"
+    },
+    {
+        "code": "520000",
+        "name": "Guizhou Province"
+    },
+    {
+        "code": "530000 ",
+        "name": "Yunnan Province"
+    },
+    {
+        "code": "540,000",
+        "name": "Tibet Autonomous Region"
+    },
+    {
+        "code": "610000",
+        "name": "Shaanxi Province"
+    },
+    {
+        "code": "620000",
+        "name": "Gansu Province"
+    },
+    {
+        "code": "630000",
+        "name": "Qinghai Province"
+    },
+    {
+        "code": "640000",
+        "name": "Ningxia Hui Autonomous Region"
+    },
+    {
+        "code": "650000",
+        "name": "Xinjiang Uygur Autonomous Region"
+    },
+    {
+        "code": "710000",
+        "name": "Taiwan Province"
+    },
+    {
+        "code": "810000",
+        "name": "Hong Kong Special Administrative Region"
+    },
+    {
+        "code": "820000",
+        "name": "Macao Special Administrative Region"
+    }
+]
